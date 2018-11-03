@@ -1,6 +1,4 @@
 
-  [![Watch the video](https://github.com/Pericena/MsImAOc/blob/master/Icon/kisspng-clash-of-clans-subway-surfers-hacker-game-android-settings-icon-pictures-5ab0ec6119ee35.png)]
-  
 <h1 align="center">
   <a href="https://github.com/Pericena/MsImAOc/blob/master/Icon/kisspng-clash-of-clans-subway-surfers-hacker-game-android-settings-icon-pictures-5ab0ec6119ee35.png" alt="Standard - JavaScript Style Guide" width="200"></a>
   <br>
@@ -8,6 +6,8 @@
   <br>
   <br>
 </h1>
+
+  [](https://github.com/Pericena/MsImAOc/blob/master/Icon/kisspng-clash-of-clans-subway-surfers-hacker-game-android-settings-icon-pictures-5ab0ec6119ee35.png)
 
 <p align="center">
   <a href="https://github.com/Pericena/MsImAOc/tree/master/Documentos"><img src="https://img.shields.io/travis/feross/standard/master.svg" alt="Travis"></a>
