@@ -4,19 +4,21 @@
   <br>
   MsImAOc
   <br>
+ https://lpericena.blogspot.com/2018/11/MsImAOc.html 
   <br>
 </h1>
 
-  [](https://github.com/Pericena/MsImAOc/blob/master/Icon/kisspng-clash-of-clans-subway-surfers-hacker-game-android-settings-icon-pictures-5ab0ec6119ee35.png)
+[![MsImAOc](https://github.com/Pericena/MsImAOc/blob/master/Icon/kisspng-clash-of-clans-subway-surfers-hacker-game-android-settings-icon-pictures-5ab0ec6119ee35.png)](https://lpericena.blogspot.com/2018/11/MsImAOc.html)
+
 
 <p align="center">
-  <a href="https://github.com/Pericena/MsImAOc/tree/master/Documentos"><img src="https://img.shields.io/travis/feross/standard/master.svg" alt="Travis"></a>
+  <a href="https://github.com/Pericena/MsImAOc/tree/master/Documentos"><img src="https://img.shields.io/travis/feross/standard/master.svg" alt="Documentación"></a>
   
-  <a href="https://github.com/Pericena/MsImAOc/tree/master/Codigo"><img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="Standard - JavaScript Style Guide"></a>
+  <a href="https://github.com/Pericena/MsImAOc/tree/master/Codigo"><img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="Código"></a>
   
-  <a href="https://github.com/Pericena/MsImAOc/tree/master/Aplicaci%C3%B3n"><img src="https://img.shields.io/npm/dm/standard.svg" alt="npm downloads"></a>
+  <a href="https://github.com/Pericena/MsImAOc/tree/master/Aplicaci%C3%B3n"><img src="https://img.shields.io/npm/dm/standard.svg" alt="Downloads"></a>
   
-  <a href="https://www.npmjs.com/package/standard"><img src="https://img.shields.io/npm/v/standard.svg" alt="npm version"></a>
+  <a href="https://github.com/Pericena/MsImAOc/tree/master/Video"><img src="https://img.shields.io/npm/v/standard.svg" alt="Video"></a>
 </p>
 
 
