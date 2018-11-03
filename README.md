@@ -79,11 +79,9 @@ Aceptar
 https://lpericena.blogspot.com/2018/11/MsImAOc.html
 [![Watch the video](https://github.com/Pericena/MsImAOc/blob/master/Imagenes/Screenshot_18.png)](https://lpericena.blogspot.com/2018/11/MsImAOc.html)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://github.com/Pericena/MsImAOc/blob/master/Video/MsImAOc%20ocultar%20archivos%20comprimido%20en%20una%20imagen%20L7C.mp4
+[![Video](https://www.youtube.com/watch?v=d5qXfiOgnSY)](https://github.com/Pericena/MsImAOc/blob/master/Video/MsImAOc%20ocultar%20archivos%20comprimido%20en%20una%20imagen%20L7C.mp4
 )
 
-[![Watch the video](https://github.com/Pericena/MsImAOc/blob/master/Video/MsImAOc%20ocultar%20archivos%20comprimido%20en%20una%20imagen%20L7C.mp4
-)](https://github.com/Pericena/Hack-facebook/blob/master/Video/Script%20Hack-Facebook%20de%20fuerza%20bruta.mp4)
 
 # Abrimos nuestro programa nuevamente 
 https://lpericena.blogspot.com/2018/11/MsImAOc.html
