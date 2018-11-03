@@ -1,7 +1,32 @@
 # MsImAOc
+<h1 align="center">
+  <a href="https://standardjs.com"><img src="https://cdn.rawgit.com/feross/standard/master/sticker.svg" alt="Standard - JavaScript Style Guide" width="200"></a>
+  <br>
+  JavaScript Standard Style
+  <br>
+  <br>
+</h1>
+
+<p align="center">
+  <a href="README-en.md">English</a> •
+  <a href="README-esla.md">Español (Latinoamérica)</a> •
+  <a href="README-iteu.md">Italiano (Italian)</a> •
+  <a href="README-kokr.md">한국어 (Korean)</a> •
+  <a href="README-ptbr.md">Português (Brasil)</a> •
+  <a href="README-zhcn.md">简体中文 (Simplified Chinese)</a> •
+  <a href="README-zhtw.md">繁體中文 (Taiwanese Mandarin)</a>
+</p>
+## Tabla de Contenido
+
+- Inicio Rápido
+  - [Instalación](#instalación)
+  - [Uso](#uso)
+  - [Lo que podrías hacer si eres inteligente](#lo-que-podrías-hacer-si-eres-inteligente)
+
+
+[<img width=150 src=https://cdn.rawgit.com/feross/standard/master/docs/logos/npm.png>](https://www.npmjs.com) | [<img width=150 src=https://cdn.rawgit.com/feross/standard/master/docs/logos/github.png>](https://github.com) | [<img width=150 src=https://cdn.rawgit.com/feross/standard/master/docs/logos/opbeat.png>](https://opbeat.com) | [<img width=150 src=https://cdn.rawgit.com/feross/standard/master/docs/logos/nearform.png>](http://www.nearform.com) | [<img width=150 src=https://cdn.rawgit.com/feross/standard/master/docs/logos/brave.png>](https://www.brave.com) |
+|---|---|---|---|---|
 Ocultar archivos comprimidos en una imagen
-
-
 @Pericena :+1: Autor: Luishiño Pericena Ch :shipit:
 
 Es una programa desarrollado en el lenguaje Bat, que su función es ocultar archivos comprimido en una imagen ya sea cualquier extensión (png, gif, jpg, ico, etc.). Funciona para el sistema operativo Windows versión 7-10.
