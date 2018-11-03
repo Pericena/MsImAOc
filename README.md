@@ -1,30 +1,22 @@
-# MsImAOc
 <h1 align="center">
-  <a href="https://standardjs.com"><img src="https://cdn.rawgit.com/feross/standard/master/sticker.svg" alt="Standard - JavaScript Style Guide" width="200"></a>
+  <a href="https://github.com/Pericena/MsImAOc/blob/master/Icon/kisspng-clash-of-clans-subway-surfers-hacker-game-android-settings-icon-pictures-5ab0ec6119ee35.png" alt="Standard - JavaScript Style Guide" width="200"></a>
   <br>
-  JavaScript Standard Style
+  MsImAOc
   <br>
   <br>
 </h1>
 
 <p align="center">
-  <a href="https://travis-ci.org/feross/standard"><img src="https://img.shields.io/travis/feross/standard/master.svg" alt="Travis"></a>
-  <a href="https://standardjs.com"><img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="Standard - JavaScript Style Guide"></a>
-  <a href="https://www.npmjs.com/package/standard"><img src="https://img.shields.io/npm/dm/standard.svg" alt="npm downloads"></a>
+  <a href="https://github.com/Pericena/MsImAOc/tree/master/Documentos"><img src="https://img.shields.io/travis/feross/standard/master.svg" alt="Travis"></a>
+  
+  <a href="https://github.com/Pericena/MsImAOc/tree/master/Codigo"><img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="Standard - JavaScript Style Guide"></a>
+  
+  <a href="https://github.com/Pericena/MsImAOc/tree/master/Aplicaci%C3%B3n"><img src="https://img.shields.io/npm/dm/standard.svg" alt="npm downloads"></a>
+  
   <a href="https://www.npmjs.com/package/standard"><img src="https://img.shields.io/npm/v/standard.svg" alt="npm version"></a>
 </p>
 
 
-## Tabla de Contenido
-
-- Inicio Rápido
-  - [Instalación](#instalación)
-  - [Uso](#uso)
-  - [Lo que podrías hacer si eres inteligente](#lo-que-podrías-hacer-si-eres-inteligente)
-
-
-[<img width=150 src=https://cdn.rawgit.com/feross/standard/master/docs/logos/npm.png>](https://www.npmjs.com) | [<img width=150 src=https://cdn.rawgit.com/feross/standard/master/docs/logos/github.png>](https://github.com) | [<img width=150 src=https://cdn.rawgit.com/feross/standard/master/docs/logos/opbeat.png>](https://opbeat.com) | [<img width=150 src=https://cdn.rawgit.com/feross/standard/master/docs/logos/nearform.png>](http://www.nearform.com) | [<img width=150 src=https://cdn.rawgit.com/feross/standard/master/docs/logos/brave.png>](https://www.brave.com) |
-|---|---|---|---|---|
 Ocultar archivos comprimidos en una imagen
 @Pericena :+1: Autor: Luishiño Pericena Ch :shipit:
 
@@ -35,7 +27,7 @@ Es una programa desarrollado en el lenguaje Bat, que su función es ocultar arch
 * La imagen que desea ocultar la información debe estar guardada en la carpeta ArchivoImag
 * La imagen debe tener las extensión ".jpg, .png, .gif,...."
 
-## Instrucción 🚀
+# Instrucción 🚀
 sistema opertaivo 
 - windows
 
@@ -43,14 +35,14 @@ sistema opertaivo
 - Instalar WinRAR 
 * https://www.winrar.es/descargas
 
-### Instalación 🔧
+# Instalación 🔧
 Pasos para usar la aplicación MsImAOc
 - Descargar MsImAOc
 - [x] https://github.com/Pericena/MsImAOc 
 - [x] https://lpericena.blogspot.com/2018/11/MsImAOc.html 
 - [ ] https://www.winrar.es/descargas
 
-
+## Tabla de Contenido
 1. Paso 1
 https://lpericena.blogspot.com/2018/11/MsImAOc.html
 [![Watch the video](https://github.com/Pericena/MsImAOc/blob/master/Imagenes/Screenshot_1.png)](https://lpericena.blogspot.com/2018/11/MsImAOc.html)
@@ -98,7 +90,7 @@ Aceptar
 12. Paso 12
 Aceptar
 
-## Ejecutando las pruebas ⚙️
+# Ejecutando las pruebas ⚙️
 
 https://lpericena.blogspot.com/2018/11/MsImAOc.html
 [![Watch the video](https://github.com/Pericena/MsImAOc/blob/master/Imagenes/Screenshot_18.png)](https://lpericena.blogspot.com/2018/11/MsImAOc.html)
@@ -107,7 +99,7 @@ https://lpericena.blogspot.com/2018/11/MsImAOc.html
 )
 
 
-# Abrimos nuestro programa nuevamente 
+## Abrimos nuestro programa nuevamente 
 https://lpericena.blogspot.com/2018/11/MsImAOc.html
 [![Watch the video](https://github.com/Pericena/MsImAOc/blob/master/Imagenes/Screenshot_14.png)](https://lpericena.blogspot.com/2018/11/MsImAOc.html)
 
@@ -119,7 +111,7 @@ https://lpericena.blogspot.com/2018/11/MsImAOc.html
 Ingresamos a la carpeta aplicación para darle el uso a nuestro programa
 
 
-# Pasos a seguir:
+## Pasos a seguir:
 * ->Debe instalar WinRAR ingrese la tecla "i".
 * ->Debe ingresar el nombre de la imagen junto con la extensión.
 * ->Debe ingresar el nombre del archivo WinRAR junto con la extensión.
@@ -134,21 +126,13 @@ Ingresamos a la carpeta aplicación para darle el uso a nuestro programa
 * Se creara una carpeta nueva con el nombre ArchivosImag
 * En la carpeta ArchivoImag se guardara las imágenes comprimidas.
 
-# Para poder visualizarlo tendremos que abrir con el programa WinRAR
+## Para poder visualizarlo tendremos que abrir con el programa WinRAR
 https://lpericena.blogspot.com/2018/11/MsImAOc.html
 [![Watch the video](https://github.com/Pericena/MsImAOc/blob/master/Imagenes/Screenshot_25.png)](https://lpericena.blogspot.com/2018/11/MsImAOc.html)
 
 https://lpericena.blogspot.com/2018/11/MsImAOc.html
 [![Watch the video](https://github.com/Pericena/MsImAOc/blob/master/Imagenes/Screenshot_30.png)](https://lpericena.blogspot.com/2018/11/MsImAOc.html)
 
-
-
-# Bibliografia
-Instalar WinRAR 
- * https://www.winrar.es/descargas
-Descargar MsImAOc
- * https://github.com/Pericena/MsImAOc 
- *  https://lpericena.blogspot.com/2018/11/MsImAOc.html 
 
 # Idioma
 <p align="center">
@@ -161,11 +145,10 @@ Descargar MsImAOc
   <a href="README-zhtw.md">繁體中文 (Taiwanese Mandarin)</a>
 </p>
 
-## Contribuyendo 🖇️
-
+### Contribuyendo 🖇️
 Por favor lee el [CONTRIBUTING.md](https://github.com/Pericena) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
 
-## Versionado 📌
+# Versión 📌
 
 Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
 
@@ -173,9 +156,14 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 * **Luishiño Pericena Choque** - *creador del programa* - [Pericena](https://github.com/Pericena)
 
 ## Licencia 📄
-
 Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
-
+# Bibliografia
+Instalar WinRAR 
+ * https://www.winrar.es/descargas
+Descargar MsImAOc
+ * https://github.com/Pericena/MsImAOc 
+ *  https://lpericena.blogspot.com/2018/11/MsImAOc.html 
+ 
 :pencil:
 ⌨️ por [Pericena](https://github.com/Pericena) 😊
