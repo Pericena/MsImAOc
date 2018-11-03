@@ -1,8 +1,8 @@
 # MsImAOc
 Ocultar archivos comprimidos en una imagen
 
-Autor: Luishiño Pericena Ch 
 
+@Pericena :+1: Autor: Luishiño Pericena Ch :shipit:
 
 Es una programa desarrollado en el lenguaje Bat, que su función es ocultar archivos comprimido en una imagen ya sea cualquier extensión (png, gif, jpg, ico, etc.). Funciona para el sistema operativo Windows versión 7-10.
 * Debe tener instalado el programa WinRAR. 
@@ -22,57 +22,57 @@ sistema opertaivo
 ### Instalación 🔧
 Pasos para usar la aplicación MsImAOc
 - Descargar MsImAOc
-* https://github.com/Pericena/MsImAOc 
-* https://lpericena.blogspot.com/2018/11/MsImAOc.html 
+- [x] https://github.com/Pericena/MsImAOc 
+- [x] https://lpericena.blogspot.com/2018/11/MsImAOc.html 
+- [ ] https://www.winrar.es/descargas
 
-- Paso 1
+
+1. Paso 1
 https://lpericena.blogspot.com/2018/11/MsImAOc.html
 [![Watch the video](https://github.com/Pericena/MsImAOc/blob/master/Imagenes/Screenshot_1.png)](https://lpericena.blogspot.com/2018/11/MsImAOc.html)
 Introducir en el teclado “Windows + E “o dirigirse a una carpeta Este Equipo Clic a propiedades de sistema.
 
-- Paso 2
+2. Paso 2
 Clic a Configuración avanzada de sistema 
 
-- Paso 3
+3. Paso 3
 Clic a Variable e entorno .
 
-
-- Paso 4
+4. Paso 4
 https://lpericena.blogspot.com/2018/11/MsImAOc.html
 [![Watch the video](https://github.com/Pericena/MsImAOc/blob/master/Imagenes/Screenshot_9.png)](https://lpericena.blogspot.com/2018/11/MsImAOc.html)
 
 Dirigirse a PATH damos clic a la opción editar.
 
-- Paso 5
+5. Paso 5
 Nos dirigimos nuevamente a Este equipo disco local donde se instalan los programas en mi caso es el disco local C: y busca la carpeta archivos de programa
 
 
-- Paso 6
+6. Paso 6
 Luego buscamos la carpeta WinRAR 
 
-- Paso 7
+7. Paso 7
 https://lpericena.blogspot.com/2018/11/MsImAOc.html
 [![Watch the video](https://github.com/Pericena/MsImAOc/blob/master/Imagenes/Screenshot_8.png)](https://lpericena.blogspot.com/2018/11/MsImAOc.html)
 
 Copiamos la ruta C:\Program Files\WinRAR
 
-- Paso 8
+8. Paso 8
 Clic derecho Copiar o también control + c
 
-- Paso 9
+9. Paso 9
 Nos dirigimos nuevamente a la venta entorno de variables y pegamos la ruta con control + v y aceptar
 
 
-- Paso 10
+10. Paso 10
 Pegar C:\Program Files\WinRAR
 
 
-- Paso 11
+11. Paso 11
 Aceptar
 
-- Paso 12
+12. Paso 12
 Aceptar
-
 
 ## Ejecutando las pruebas ⚙️
 
@@ -81,7 +81,6 @@ https://lpericena.blogspot.com/2018/11/MsImAOc.html
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://github.com/Pericena/MsImAOc/blob/master/Video/MsImAOc%20ocultar%20archivos%20comprimido%20en%20una%20imagen%20L7C.mp4
 )
-
 
 [![Watch the video](https://github.com/Pericena/MsImAOc/blob/master/Video/MsImAOc%20ocultar%20archivos%20comprimido%20en%20una%20imagen%20L7C.mp4
 )](https://github.com/Pericena/Hack-facebook/blob/master/Video/Script%20Hack-Facebook%20de%20fuerza%20bruta.mp4)
